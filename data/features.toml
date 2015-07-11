@@ -1,0 +1,19 @@
+[[feature]]
+title = "Statistics"
+img = "/img/features/statistics.png"
+text = "Stay on top of your organization's finances by having a look at our detailed statistics."
+
+[[feature]]
+title = "SQLite Database"
+img = "/img/features/sqlite.png"
+text = "All data is stored in a SQLite database: no complex setup, fully transactional, easy backup!"
+
+[[feature]]
+title = "REST-API"
+img = "/img/features/rest.png"
+text = "Write your own client for our easy-to-use, fully-documented REST API."
+
+[[feature]]
+title = "Web-based"
+text = "Being a web application, strichliste can be accessed on any device that supports running a web browser."
+img = "/img/features/web-based.png"

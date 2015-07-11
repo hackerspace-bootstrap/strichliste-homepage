@@ -1,0 +1,34 @@
+baseurl = "https://strichliste.org"
+languageCode = "en-us"
+title = "Strichliste ‒ The Tally Sheet Replacement for Your Space"
+log = true
+verbose = true
+verboselog = true
+
+[[menu.main]]
+  weight = 10
+  name = "Home"
+  url = "/"
+
+[[menu.main]]
+  weight = 20
+  name = "About"
+  url = "/about/"
+
+[[menu.main]]
+  weight = 30
+  name = "Install"
+  url = "/install/"
+
+[[menu.main]]
+  weight = 40
+  name = "Demo"
+  url = "https://demo.strichliste.org"
+
+[[menu.main]]
+  weight = 50
+  name = "Source"
+  url = "https://github.com/hackerspace-bootstrap/?query=strichliste"
+
+[params]
+  logo = "/img/strichliste-logo.png"

@@ -1,0 +1,14 @@
+{
+  "name": "strichliste-homepage",
+  "version": "0.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hackerspace-bootstrap/strichliste-homepage.git"
+  },
+  "author": "Simon Elsbrock <simon@iodev.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hackerspace-bootstrap/strichliste-homepage/issues"
+  }
+}
