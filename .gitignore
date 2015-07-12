@@ -2,3 +2,4 @@
 .idea
 public/*
 themes/hckspc-bootstrap/static/bower_components
+themes/hckspc-bootstrap/node_modules/
