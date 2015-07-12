@@ -16,7 +16,12 @@ It's aim is to provide a no-frills, easy-to-setup and -to-use solution for
 managing your organization's snack bar.
 </quote>
 
-#### Architecture
+### Demo
+
+That's what you're here for, right? You can access a demo of strichliste
+[here](https://demo.strichliste.org/).
+
+### Architecture
 
 strichliste consists of two components: the `frontend` and the `backend`.
 
@@ -27,7 +32,7 @@ The backend (`strichliste` on Github) is written in Javascript and runs in
 nodejs. It is governed by a testsuite. All data is stored in a SQLite database
 which supports deployment and simplifies backups.
 
-#### How it works
+### How it works
 
 The processes implemented by strichliste inherently assumes to be used by a
 trusted audience. Each user intending to buy something from your kiosk is
@@ -44,6 +49,6 @@ charge your account with the given amount and it will take effect immediately.
 
 It's as simple as that!
 
-#### Troubleshooting
+### Troubleshooting
 
 In case of problems, please file an issue on our Github issue tracker.
