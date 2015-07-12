@@ -10,3 +10,14 @@ install:
 script:
   - export PATH=$HOME/gopath/bin:$PATH
   - hugo --theme=hckspc-bootstrap
+after_success:
+  - ./deploy.sh
+cache:
+  bundler: true
+  directories:
+    - themes/hckspc-bootstrap/node_modules
+    - themes/hckspc-bootstrap/static/bower_components
+env:
+  global:
+    - ENCRYPTION_LABEL="36f148202be5"
+    - DEPLOY_BRANCH="master"
