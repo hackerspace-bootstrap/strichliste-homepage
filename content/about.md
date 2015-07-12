@@ -18,6 +18,8 @@ managing your organization's snack bar.
 
 ### Demo
 
+![A screenshot of strichliste in action](/img/screenshot-main.png)
+
 That's what you're here for, right? You can access a demo of strichliste
 [here](https://demo.strichliste.org/).
 
