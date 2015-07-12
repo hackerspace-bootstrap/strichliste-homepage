@@ -10,5 +10,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hackerspace-bootstrap/strichliste-homepage/issues"
+  },
+  "devDependencies": {
+    "bower": "^1.4.1"
   }
 }

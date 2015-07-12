@@ -1,0 +1,12 @@
+sudo: false
+language: go
+go:
+  - 1.4
+addons:
+  ssh_known_hosts: jade.strichliste.org
+install:
+  - go get -v github.com/spf13/hugo
+  - (cd themes/hckspc-bootstrap && npm install && ./node_modules/.bin/bower install)
+script:
+  - export PATH=$HOME/gopath/bin:$PATH
+  - hugo --theme=hckspc-bootstrap
