@@ -1,6 +1,6 @@
 baseurl = "https://strichliste.org"
 languageCode = "en-us"
-title = "Strichliste ‒ The Tally Sheet Replacement for Your Space"
+title = "Strichliste ‒ The Tally Sheet Replacement for Your Organization"
 log = true
 verbose = true
 verboselog = true
