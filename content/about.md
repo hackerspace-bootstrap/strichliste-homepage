@@ -22,7 +22,7 @@ That's what you're here for, right? You can access a demo of strichliste
 [here](https://demo.strichliste.org/). But, just to be sure, here's how
 it looks like:
 
-![A screenshot of strichliste in action](/img/screenshot-main.png)
+<img alt="A screenshot of strichliste in action" src="/img/screenshot-main.png" width="819" height="671">
 
 ### Architecture
 
