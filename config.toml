@@ -30,5 +30,10 @@ verboselog = true
   name = "Source"
   url = "https://github.com/hackerspace-bootstrap/?query=strichliste"
 
+[[menu.main]]
+  weight = 60
+  name = "Contact"
+  url = "/contact/"
+
 [params]
   logo = "/img/strichliste-logo.png"
