@@ -17,6 +17,7 @@ if [ -n "$TRAVIS_BUILD_ID" ]; then
   #   DEPLOY_BRANCH    - The only branch that Travis should deploy from
   #   ENCRYPTION_LABEL - The label assigned when encrypting the SSH key using travis encrypt-file
   #
+  echo TRAVIS_BRANCH: $TRAVIS_BRANCH
   echo DEPLOY_BRANCH: $DEPLOY_BRANCH
   echo ENCRYPTION_LABEL: $ENCRYPTION_LABEL
   if [[ "$TRAVIS_BRANCH" != "$DEPLOY_BRANCH" ]] && [[ "$TRAVIS_PULL_REQUEST" == "false" ]]; then
