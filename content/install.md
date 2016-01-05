@@ -38,8 +38,8 @@ The frontend is a set of static files to be served by a webserver such as
 
 1. Go to the Github to download the [latest release](https://github.com/hackerspace-bootstrap/strichliste-web/releases).
 2. Unpack the contents of the tarball to a directory of your choice. (e.g. /var/www/strichliste)
-4. Configure your webserver to point to this directory.
-5. Modify your settings in `js/settings.js`.
-6. Access the frontend from your favorite browser.
+3. Configure your webserver to point to this directory.
+4. Modify your settings in `js/settings.js`.
+5. Access the frontend from your favorite browser.
 
 You should now be able to create your first transactions!
