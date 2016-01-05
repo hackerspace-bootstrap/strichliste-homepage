@@ -36,11 +36,11 @@ The backend should now be running.
 The frontend is a set of static files to be served by a webserver such as
 `nginx`. It accesses the backend using HTTP.
 
-1. Go to the Github project to download the [latest release](https://github.com/hackerspace-bootstrap/strichliste-web).
-2. Unpack the contents of the tarball to your target directory. 
-4. Modify `src/script/lib/settings.js` to match your needs.
-5. Run `make production` to install the package depencies.
-6. Your build is not ready in the build/ directory where your webserver should point to.
-7. Access the frontend from your favorite browser.
+1. Go to the Github to download the [latest release](https://github.com/hackerspace-bootstrap/strichliste-web).
+2. Unpack the contents of the tarball or git clone the master to your target directory. 
+3. Run `make production` to install the package depencies.
+4. Your build is not ready in the strichliste-web/ directory where your webserver should point to.
+5. Modify your settings in strichliste-web/js/settings.js
+6. Access the frontend from your favorite browser.
 
 You should now be able to create your first transactions!
