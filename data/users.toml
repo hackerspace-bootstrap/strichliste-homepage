@@ -22,3 +22,8 @@ link = "https://thomann.de"
 name = "Nerd2Nerd"
 link = "https://www.nerd2nerd.org/"
 img = "/img/users/nerd2nerd.png"
+
+[[user]]
+name = "Schaffenburg"
+link = "https://schaffenburg.de/"
+img = "/img/users/schaffenburg.png"
