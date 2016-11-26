@@ -1,7 +1,7 @@
 +++
 date = "2016-01-02T20:15:00+02:00"
 draft = false
-title = "Contact"
+title = "Get in touch with us!"
 [menu]
   [menu.main]
     parent = "Contact"
