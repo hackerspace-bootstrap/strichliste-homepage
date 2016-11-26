@@ -23,6 +23,7 @@ The backend is a nodejs application. As such, you need to have `nodejs` installe
 2. Unpack the contents of the tarball to your target directory.
 3. Run `npm install` to install the package depencies.
 4. Create the SQLite database by running `make database`.
+4.1 You might need the package `sqlite3` or the equivalent on your distro.
 5. _(optional)_ Modify `configuration.js` to match your needs.
 6. Start the backend by running `node server.js`. You can optionally specify
 the path to your configuration file using the `--externalconfig` parameter.
