@@ -4,6 +4,11 @@ link = "https://www.hackerspace-bremen.de/"
 img = "/img/users/hackerspace-bremen.png"
 
 [[user]]
+name = "ownCloud"
+link = "https://www.owncloud.org/"
+img = "/img/users/ownCloud.png"
+
+[[user]]
 name = "Hackzogtum Coburg"
 link = "https://www.hackzogtum-coburg.de/"
 img = "/img/users/hackzogtum.png"
