@@ -34,17 +34,17 @@ The backend should now be running on `http://localhost:8080` (default).
 You can proxy the requests to your strichliste server through your favorite webserver, using the default HTTP port 80. 
 
 For NGINX:
-`
+```
 location /api/ {
    proxy_pass http://localhost:8080/;
 }
-`
+```
 
 For Apache:
-`
+```
 ProxyPass /api/ http://localhost:8080/
 ProxyPassReverse /api/ http://localhost:8080/
-`
+```
 
 ### Frontend
 
