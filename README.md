@@ -1,5 +1,9 @@
 [![Build Status](https://travis-ci.org/hackerspace-bootstrap/strichliste-homepage.svg?branch=master)](https://travis-ci.org/hackerspace-bootstrap/strichliste-homepage)
 
+# DEPRECATED
+strichliste1 has been replaced by strichliste2. See https://github.com/strichliste for the new version!
+
+
 ### strichliste Homepage
 
 [hugo](http://gohugo.io/)-based static homepage for strichliste.
